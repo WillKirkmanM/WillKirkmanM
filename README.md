@@ -4,6 +4,5 @@
 - [Repositories](https://github.com/stars/WillKirkmanM/lists/home-brewed)
 - [Gists](https://gist.github.com/WillKirkmanM)
 
-## Contact Me
-### Discord
-@199P
+## Contact me through Email
+will@parsonlabs.com
